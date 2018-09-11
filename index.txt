@@ -1,3 +1,5 @@
-����ѧϰ��git �ǵ�����ssh
-���Ӳֿ�
-����github gitlab
+﻿今天学习了git 记得配置ssh
+链接仓库
+配置github gitlab
+啦啦啦啦
+啦啊啊啊啊啊啊啊啊
